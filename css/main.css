@@ -2370,7 +2370,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:1500px) {
   .home-content {
-    padding-top: 23.2rem;
+    padding-top: 13.8rem;
   }
 
   .home-content h1 {
@@ -2640,8 +2640,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 23.2rem;
-  padding-bottom: calc((62.4rem/2) + 6.4rem);
+  padding-top: 13.2rem;
+  padding-bottom: 13.2rem;
   background-color: #121619;
   color: rgba(255, 255, 255, 0.8);
   overflow: hidden;
