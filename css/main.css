@@ -1289,7 +1289,7 @@ input::-moz-focus-inner {
   font-size: 2.5rem;
   line-height: 1.6;
   border: none;
-  color: #000000;
+  color: #000000;s-footer
 }
 
 .stats-tabs li a:hover {
@@ -3709,7 +3709,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-  padding-top: 18.4rem;
+  padding-top: 0rem;
   padding-bottom: 4.8rem;
   color: rgba(255, 255, 255, 0.8);
   position: relative;
