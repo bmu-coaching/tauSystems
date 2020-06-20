@@ -74,6 +74,13 @@
   padding: 0 8px;
 }
 
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
 /* Some left and right padding inside the container */
 .container {
   padding: 0 16px;
